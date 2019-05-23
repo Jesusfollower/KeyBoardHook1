@@ -1,0 +1,10 @@
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\bin\Debug\KeyBoardHook.exe.config
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\bin\Debug\KeyBoardHook.exe
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\bin\Debug\KeyBoardHook.pdb
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.csprojResolveAssemblyReference.cache
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.Form1.resources
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.Properties.Resources.resources
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.csproj.GenerateResource.Cache
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.exe
+C:\Users\Sean\source\repos\KeyBoardHook\KeyBoardHook\obj\Debug\KeyBoardHook.pdb
